@@ -8,11 +8,11 @@
 
 Creamos la carpeta saludo y dentro de ella un fichero index.html
 
-![](/ejercicio2.assets/1.0.PNG)
+![](/ejercicio2.assets/14.PNG)
 
 
 
-![](/ejercicio2.assets/2.0.PNG)
+![](/ejercicio2.assets/15.PNG)
 
 
 
