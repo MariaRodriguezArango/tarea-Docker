@@ -1,4 +1,4 @@
-#### María Rodriguez Arango // 71670541-B
+#### María Rodriguez Arango 
 
 [TOC]
 
